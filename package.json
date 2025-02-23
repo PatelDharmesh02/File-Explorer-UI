@@ -1,0 +1,26 @@
+{
+  "name": "file-exlporer",
+  "version": "1.0.0",
+  "description": "File Explorer Sidebar",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Patel Dharmesh",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.8",
+    "vite": "^6.1.1"
+  }
+}
